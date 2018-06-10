@@ -1,0 +1,14 @@
+1. Player gets to bet a certain amount of money from their account
+2. Player gets 2 cards and they can hit/stay
+3. They can continue hitting until they bust or decide to stay
+4. If player is still under 21, they play until they beat or bust.
+
+Endings
+1. Player gos over 21 before computer goes - lose money
+2. Human decides to stay - computer hits until it gets higher score than player or busts
+3. Player wins after computer has turn - computer keeps hitting till they bust
+Human doubles money and have happy human
+
+
+1. J, Q, K count as value of 10
+2. Aces can be 1 or 11
